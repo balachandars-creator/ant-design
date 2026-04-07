@@ -11,6 +11,7 @@ const App: React.FC = () => {
       className: 'custom-class',
       style: {
         marginTop: '20vh',
+        background-color: #E3FBFF;
       },
     });
   };
